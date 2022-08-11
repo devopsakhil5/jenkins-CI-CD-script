@@ -32,7 +32,6 @@ pipeline
                sh 'java -jar /home/ubuntu/.jenkins/workspace/DeclarativePipeline1/testing.jar'
             }
         }
-       
     }
     
     post
